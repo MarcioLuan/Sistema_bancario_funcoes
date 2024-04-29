@@ -1,2 +1,2 @@
 # Sistema_bancario_funcoes
-Desafio 2 da trilha Python da DIO
+Aprimoramento de sistema bancário utilizando funções em Python
